@@ -9,7 +9,7 @@ The goal is twofold:
 
 The structure broadly follows Hull’s book, with simulations and implementations added whenever a concept benefits from numerical illustration.  
 
-**Author**: Antonin Fournera $-$ Double degree student, Mines de Saint-Étienne & EM Lyon Business School
+**Author**: Antonin Fournera $-$ Double degree student, Mines de Saint-Étienne & EM Lyon Business School  
 **Contact**: fourneraa@gmail.com  
 
 # 2. Contents
